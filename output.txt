@@ -1,0 +1,40 @@
+Fetching http://static.sfdict.com/audio/N02/N0271300.mp3 ...
+Fetching http://static.sfdict.com/audio/B01/B0176000.mp3 ...
+Fetching http://static.sfdict.com/audio/P04/P0435200.mp3 ...
+Fetching http://static.sfdict.com/audio/A06/A0612600.mp3 ...
+Fetching http://static.sfdict.com/audio/B00/B0070700.mp3 ...
+Fetching http://static.sfdict.com/audio/T00/T0093200.mp3 ...
+Fetching http://static.sfdict.com/audio/C03/C0360600.mp3 ...
+Fetching http://static.sfdict.com/audio/E00/E0060500.mp3 ...
+[   (   'Nutshell',
+        '[nuht-shel]',
+        'http://static.sfdict.com/audio/N02/N0271300.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Nutshell.mp3'),
+    (   'Beans',
+        '[been]',
+        'http://static.sfdict.com/audio/B01/B0176000.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Beans.mp3'),
+    (   'Pie',
+        '[pahy]',
+        'http://static.sfdict.com/audio/P04/P0435200.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Pie.mp3'),
+    (   'Apples',
+        '[ap-uhlz]',
+        'http://static.sfdict.com/audio/A06/A0612600.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Apples.mp3'),
+    (   'Bananas',
+        '[buh-nan-uhz]',
+        'http://static.sfdict.com/audio/B00/B0070700.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Bananas.mp3'),
+    (   'Tea',
+        '[tee]',
+        'http://static.sfdict.com/audio/T00/T0093200.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Tea.mp3'),
+    (   'Cheese',
+        '[cheez]',
+        'http://static.sfdict.com/audio/C03/C0360600.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Cheese.mp3'),
+    (   'Eggshells',
+        '[eg-shel]',
+        'http://static.sfdict.com/audio/E00/E0060500.mp3',
+        'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/Eggshells.mp3')]

@@ -3,7 +3,7 @@ import pprint as pp #prints complex data structures with nice indentations
 import urllib.request
 
 
-page = 'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/source.html'
+page = 'path/to/source.html'
 soup = BeautifulSoup(open(page), "lxml") #lxml is a third party parser used to make sense of HTML Tags in python. Its advantage is speed.
 
 #in every headword we need to extract the content 
@@ -19,7 +19,7 @@ for head in headings:
 	audio_url = head.find('source',{'type':'audio/mpeg'}).get('src') #we take advantage of beautiful soup and get the src directly
 	
 	mp3file = urllib.request.urlopen(audio_url)
-	local_url = 'C:/Users/shivasheesh/Downloads/web-scraper-master/web-scraper-master/web-scraper/audio/{}.mp3'.format(word) 
+	local_url = 'path/to/store/audio/{}.mp3'.format(word) 
 	print ("Fetching {} ... ".format(audio_url))
 
 	with open(local_url,'w+') as aout:
